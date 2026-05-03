@@ -6,8 +6,6 @@ Use the demo editor credentials below to log in as an author/editor. The app pro
 
 - Demo Editor: **editor@tnf.com** / **editor@123**
 
-Example login button (UI text):
-
 
 ---
 
