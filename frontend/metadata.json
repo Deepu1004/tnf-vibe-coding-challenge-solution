@@ -1,0 +1,6 @@
+{
+  "name": "Scholar Risk Detector",
+  "description": "Scholar Risk Detector — an editorial integrity platform built for Taylor & Francis editors. Multi-signal manuscript screening, device and metadata fingerprinting, and similarity analysis to support rapid editorial decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
