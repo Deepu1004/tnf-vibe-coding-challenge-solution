@@ -8,9 +8,6 @@ Use the demo editor credentials below to log in as an author/editor. The app pro
 
 Example login button (UI text):
 
-```html
-<button>Demo Editor</button>
-```
 
 ---
 
